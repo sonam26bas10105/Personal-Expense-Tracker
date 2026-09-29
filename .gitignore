@@ -1,0 +1,15 @@
+# Runtime data (personal, regenerated on first run)
+expenses.xlsx
+expense_tracker.log
+Expense_Report.csv
+Category_Report.png
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+
+# IDE
+.idea/
+.vscode/
