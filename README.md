@@ -101,13 +101,5 @@ Expected result: `Ran 74 tests ... OK`.
 | `test_report.py` | 9 | category totals, CSV export, chart output, unwritable-folder handling |
 | `test_main.py` | 4 | menu routing, invalid choices, category feedback, crash protection |
 
-## Screenshots
-
-| | |
-|---|---|
-| ![Menu](docs/screenshots/01_main_menu.png.png) | ![Categories](docs/screenshots/02_categories.png.png) |
-| ![Expenses](docs/screenshots/03_add_view_expenses.png.png) | ![Update and delete](docs/screenshots/04_update_delete.png.png) |
-| ![Budget and report](docs/screenshots/05_budget_report_export.png.png) | ![Unit tests](docs/screenshots/06_unit_tests.png.png) |
-| ![Log](docs/screenshots/07_log_file.png) | |
 
 
